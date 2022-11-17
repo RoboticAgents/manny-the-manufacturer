@@ -1,23 +1,27 @@
-# Project Proposal by Add Team Member Names
+# Project Proposal by Katie Burgess, Pallas Cain, Danny Ulrich
 
 ## Proposed Project Idea
 
-TODO: Clearly describe your idea for a final project, including what robot you plan to use, what application you focusing on and why, and include any background references you used to develop the idea for your project (links are okay).
+For our final project we are planning on using the evo arm to simulate automated machining. We are focusing on this because Pallas and Katie both have background in manufacturing and find it interesting. We are planning on writing our program in python. Our background we used to develop the idea was our real-life personal experiences with manufacturing and the automation of it.
 
 ## Acceptance Criteria
 
-In a bulleted list, include predefined requirements that must be met for your project to be considered complete. You must identify at least five requirements for your robotic system to satisfy the goals of the project you are setting. These requirements must be specific, easily verifiable, and be an important part of the project's success. For example, for a robot delivery system, some of the requirements might include building correct map of a specific environment, correctly delivering items to the location, and correctly returning to its base location.
-
-- TODO
-- TODO
-- TODO
-- TODO
-- TODO
+- Writing the program in Python
+- Correctly placing the item in all locations
+- Assuring correctly-working hardware (to the best of our abilities)
+- Having this program run for multiple 'parts'
+- Picking up and placing the items in grid-patterned starting and ending locations.
 
 ## Feasibility
 
 TODO: Explain why is your proposed idea feasible. For example, are you extending a previous project or have a sample code from someone else's project to start with?
 
+This is a feasible idea, as it is something that Katie has experience in the past through her internship, a well as it is something we are buidling upon from one of the second-round evoarm groups. One of the groups moved blocks sideways, so we are expanding on this idea for doing it for more parts, adding realism, and having more placing and pick up locations per part.
+
 ## Additional Hardware
 
-TODO: If your project requires additional hardware, please list it below and include a link to a website where it can be purchased. If you need resources other than hardware, please list them as well. If you do not require any additional resources, just state that fact.
+We need:
+
+- 'parts' to pick up
+- platforms to place the pieces in, to act like the machines
+- possibly a new arm motor to use if it is broken
