@@ -8,11 +8,7 @@
 - [Team Assignments](#team-assignments)
 - [Core Requirements](#core-requirements)
 - [Project Ideas](#project-ideas)
-  - [GoPiGo3](#gopigo)
-  - [Bebop](#bebop)
   - [evoarm](#evoarm)
-  - [turtlebot](#turtlebot)
-  - [robot simulation](#robot-simulation)
 - [Proposal](#proposal)
 - [Working Prototype and Progress Report](#working-prototype-and-progress-report)
 - [Project Demonstrations](#project-demonstrations)
@@ -53,40 +49,12 @@ You are invited to work in a self-selected team of two or three. Alternatively, 
 
 You are welcome to reuse existing code but you must either customize it or extend it. Taking existing code and just getting it to work does not constitute a project! Below are some ideas and resources, you are welcome to use your own search wizardry to find other helpful resources.
 
-### gopigo
-
-- [Dexter Industries sample projects](https://github.com/DexterInd/GoPiGo3/tree/master/Projects):
-
-  - object avoidance robot
-  - empathy bot
-  - lane or object tracker
-  - compass robot
-
-- [ROS with gopigo](https://github.com/ros-gopigo3/gopigo3) (includes teleop). Another [ROS2 with gopigo reference](https://github.com/slowrunner/ROS2-GoPiGo3).
-
-### bebop
-
-- Search and rescue using drones. Can be implemented using pyparrot with Bebop drones and a search algorithm, such as A*.
-- Product delivery to a specific location using drones and pyparrot library.
-- Capture the flag using drones and AR Code reader. Can be implemented using pyparrot and [ar-markers library](https://github.com/pablodiegoss/pymarker).
-
 ### evoarm
 
 - Tick Tac Toe, Towers of Hanoi, or other game using arm manipulation.
 - Warehouse box manipulation.
 - Drawing.
 - [Alternate arm control](https://github.com/Atli-A/RobotWebControl)
-
-### turtlebot
-
-- [Various navigation strategies](https://github.com/turtlebot/turtlebot4_tutorials/tree/galactic/turtlebot4_python_tutorials/turtlebot4_python_tutorials) with [turtlebot 4 navigator](https://turtlebot.github.io/turtlebot4-user-manual/tutorials/navigation.html#turtlebot-4-navigator).
-- Object recognition. See the bottom of [TurtlebotIsGo Unit](https://github.com/turtlebot/TurtleBot4Lessons/blob/main/units/Unit00-TB4-Introduction/L02-TurtleBotIsGo/U00-L02-TurtleBotIsGo.md) to see how to enable the camera in RViz.
-- Multi-robot information exchange using ROS for some task, for example sending command from one turtlebot to another.
-
-### Robot Simulation
-
-- Implement an application task using a [Turtlebot 4 simulation](https://github.com/turtlebot/TurtleBot4Lessons/blob/main/units/Unit00-TB4-Introduction/L01-IgnitionBlastoff/U00-L01-IgnitionBlastoff.md).
-- Implement an application task in [Gazebo](https://classic.gazebosim.org/tutorials).
 
 ## Proposal
 
