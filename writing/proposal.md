@@ -16,7 +16,7 @@ For our final project we are planning on using the evo arm to simulate automated
 
 TODO: Explain why is your proposed idea feasible. For example, are you extending a previous project or have a sample code from someone else's project to start with?
 
-This is a feasible idea, as it is something that Katie has experience in the past through her internship, a well as it is something we are buidling upon from one of the second-round evoarm groups. One of the groups moved blocks sideways, so we are expanding on this idea for doing it for more parts, adding realism, and having more placing and pick up locations per part.
+This is a feasible idea, as it is something that Katie has experience in the past through her internship, a well as it is something we are building upon from one of the second-round evoarm groups. One of the groups moved blocks sideways, so we are expanding on this idea for doing it for more parts, adding realism, and having more placing and pick up locations per part.
 
 ## Additional Hardware
 

@@ -22,7 +22,12 @@
         "JJ",
         "sheetshuttle",
         "pluginbase",
-        "teleop"
+        "teleop",
+        "Ulrich",
+        "Burgess",
+        "Pallas",
+        "evo",
+        "evoarm"
     ],
     "ignorePaths": [
         ".github/**"
