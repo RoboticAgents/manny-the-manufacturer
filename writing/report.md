@@ -18,7 +18,7 @@ Based on your experiences with the project and from our discussions in class, pl
 
 1. Who would typically make the technology of the similar type as your project? Why?
 
-TODO: Add an answer to the question above.
+Our robot simulates a process very similar to automated manufacturing. Robotic arms and manipulators like our project are used by large manufacturing companies to speed up the process and make it more consistent overall.
 
 1. Who are the intended users of this robotic application? How does this technology benefit them?
 
