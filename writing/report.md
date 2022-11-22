@@ -1,4 +1,4 @@
-# Report by Add Team Member Names
+# Report by Katie, Pallas, and Danny
 
 ## Project Summary
 
@@ -34,7 +34,8 @@ Our robot simulates a process very similar to automated manufacturing. Robotic
 arms and manipulators like our project are used by large manufacturing companies
 to speed up the process and make it more consistent overall.
 
-1. Who are the intended users of this robotic application? How does this technology benefit them?
+1. Who are the intended users of this robotic application? How does this
+technology benefit them?
 
 TODO: Add an answer to the question above.
 
@@ -46,15 +47,18 @@ TODO: Add an answer to the question above.
 
 TODO: Add an answer to the question above.
 
-1. What solutions can be developed to avoid the harm caused by this type of technology or to fix the harm?
+1. What solutions can be developed to avoid the harm caused by this type of
+technology or to fix the harm?
 
 TODO: Add an answer to the question above.
 
 ## Team Working Strategy
 
 TODO: Describe the details of your team working strategy, specifically explain
-how did you complete this work as a team and describe the specific contributions of each team member.
+how did you complete this work as a team and describe the specific contributions
+of each team member.
 
 ## Challenges and Learning Experiences
 
-TODO: Discuss any challenges you have encountered during the work on this assignment and describe the biggest learning takeaways.
+TODO: Discuss any challenges you have encountered during the work on this assignment
+and describe the biggest learning takeaways.
