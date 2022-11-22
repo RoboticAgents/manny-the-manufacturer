@@ -5,7 +5,7 @@
 TODO: Describe the completed project. Provide motivation for your project,
 application that your robot is utilized for, specific goals/tasks it completes,
 and include any background references you used to develop the idea for your
-roject (links are okay).
+project (links are okay).
 
 ## Project Implementation Details
 
