@@ -40,7 +40,7 @@ environment). Produce visual representation of these experiments (pictures or
 videos). Describe your observations of the outcome of these experiments(how did
 the robot behave in these experiments? were there variations?).
 
-### 1. going from one side to another
+1. going from one side to another
 
 This task began with creating a working inverse kinematics script to convert an
 XYZ coordinate set to the appropriate angles for the servos. We ended up
@@ -49,14 +49,14 @@ sequence command structure we were able to get the arm, with a healthy dose of
 trial and error, to move from the start side, to the middle "machine", and
 finally to the finished side.
 
-### 2. picking up the cubes
+2. picking up the cubes
 
 Picking up the cubes was the second part to the system, being able to pick up
 the cube and combine that with the previous moving step, we are able to
 transport the cube from one station to the next, with the exception of putting
 it down.
 
-### 3. putting down the cube in the correct spot
+3. putting down the cube in the correct spot
 
 The last task was getting the robot to put the cube down in the correct spot,
 this required a bit more finesse than simply opening the jaws. Rotation of the
