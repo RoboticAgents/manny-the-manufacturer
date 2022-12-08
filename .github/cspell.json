@@ -23,11 +23,12 @@
         "sheetshuttle",
         "pluginbase",
         "teleop",
-        "Ulrich",
+        "Ullrich",
         "Burgess",
         "Pallas",
         "evo",
-        "evoarm"
+        "evoarm",
+		"acutec"
     ],
     "ignorePaths": [
         ".github/**"
