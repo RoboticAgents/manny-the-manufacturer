@@ -38,8 +38,8 @@ TODO: Add an answer to the question above.
 
 ## Team Working Strategy
 
-TODO: Describe the details of your team working strategy, specifically explain how did you complete this work as a team and describe the specific contributions of each team member.
+Our teamworking strategy was to have at least two people testing at the same time while one person worked on the report. Katie worked a lot with coding the robots movements. Danny and Pallas helped to make the resin cubes. Pallas and Katie designed the board for the robot to sit on. We all worked on the hardware of the arm trying to fix the first robot. We all were also a part of the testing process discussing what changes needed to be made and putting the blocks back in order. Additionally, we all worked on the report.
 
 ## Challenges and Learning Experiences
 
-TODO: Discuss any challenges you have encountered during the work on this assignment and describe the biggest learning takeaways.
+The biggest challenge we faced during this assignment was finding a working arm. The first arm we started with was put on backwards and the motor was not working as well as we wanted so we had to switch robots. This meant we had to rewrite our code for the new robot. It was very frustrating but we overcame this with a lot of patience. One of the biggest learning takeaways was that we spent a lot of time considering the design of the robot and how it would interact with the environment. We learned the arm could only stretch so far and only rotate so many degrees. This meant we had to work within the confines of the arm's capabilities. Another learning takeaway was how much testing is involved with robotics. This project definitely took the most testing of all the projects we did this past semester. Every small edit in the positioning needed to be tested to make sure the arm could still pick up the blocks. All this testing took a lot of patience and critical thinking.
