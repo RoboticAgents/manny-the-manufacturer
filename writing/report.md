@@ -4,6 +4,8 @@
 
 TODO: Describe the completed project. Provide motivation for your project, application that your robot is utilized for, specific goals/tasks it completes, and include any background references you used to develop the idea for your project (links are okay).
 
+Our project is a simulation of the arm manipulators used in the manufacturing field. The arm is meant to move pieces from the start zone to the machine and then to the finished zone. Our concept came from Katie and Pallas's experiences working at Acutec.
+
 ## Project Implementation Details
 
 TODO: First, outline all steps one must take to run your project, including any needed installations. Then describe **all** steps you took to implement the task, including all non-technical and technical details. Please include references (links are okay) to all resources you have used.
@@ -11,6 +13,8 @@ TODO: First, outline all steps one must take to run your project, including any 
 ## Experimental Results
 
 TODO: Conduct at least three experiments with your completed implementation, where something is varied in each experiment (for example changes in the environment). Produce visual representation of these experiments (pictures or videos). Describe your observations of the outcome of these experiments (how did the robot behave in these experiments? were there variations?).
+
+Different materials impact?
 
 ## Ethical Implications
 
@@ -30,11 +34,11 @@ TODO: Add an answer to the question above.
 
 1. How can the type of robotic application implemented in your project cause harm?
 
-TODO: Add an answer to the question above.
+One argument that people use against having automated robots in manufacturing is that the robots take people's jobs or that people are getting replaced by robots in manufacturing. Another possible harm is the environmental impact of manufacturing process.
 
 1. What solutions can be developed to avoid the harm caused by this type of technology or to fix the harm?
 
-TODO: Add an answer to the question above.
+Manufacturing businesses using robotics are often still desperate for people to hire. Additionally, robotics creates more high paying jobs because people have to run the robots too. The environmental impact of the manufacturing field could be counteracted with being more environmental conscious and creating programs to counteract the emissions put out by the plants.
 
 ## Team Working Strategy
 
