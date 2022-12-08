@@ -1,4 +1,4 @@
-# Progress Report by  Katie Burgess, Pallas Cain, Danny Ulrich
+# Progress Report by  Katie Burgess, Pallas Cain, Danny Ullrich
 
 ## Completed Prototype
 

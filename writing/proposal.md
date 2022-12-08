@@ -1,8 +1,8 @@
-# Project Proposal by Katie Burgess, Pallas Cain, Danny Ulrich
+# Project Proposal by Katie Burgess, Pallas Cain, Danny Ullrich
 
 ## Proposed Project Idea
 
-For our final project we are planning on using the evo arm to simulate automated machining. We are focusing on this because Pallas and Katie both have a background in manufacturing and find it interesting. Furthermore, there is a market for more accessible automation, specifically in the realm of small business and low volume manufacturing. We are planning on writing our program in python. Our background we used to develop the idea was our real-life personal experiences with manufacturing and the automation of it.
+For our final project we are planning on using the evo arm to simulate automated machining. We are focusing on this because Pallas and Katie both have a background in manufacturing and find it interesting. Furthermore, there is a market for more accessible automation, specifically in the realm of small business and low volume manufacturing. This setup also simulates a more realistic use of a multi-axis robotic arm; utilizing a central "machine" location where the part would have work done on it, showing that the power of the arm comes from it's ability to integrate with other systems. We are planning on writing our program in python. Our background we used to develop the idea was our real-life personal experiences with manufacturing and the automation of it.
 
 ## Acceptance Criteria
 
