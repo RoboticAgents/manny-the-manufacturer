@@ -28,7 +28,10 @@
         "Pallas",
         "evo",
         "evoarm",
-		"acutec"
+		"acutec",
+		"evodyne",
+		"manny",
+		"evoarms"
     ],
     "ignorePaths": [
         ".github/**"

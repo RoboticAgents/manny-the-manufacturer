@@ -90,7 +90,7 @@ Fish, they would probably get the boards wet and cause a short circuit. Although
 access to this type of technology should be widely available, there are
 legitimate concerns about the manufacturing of dangerous things such as weapons
 or explosives. Lowering the cost and increasing the availability of products is
-great, however that can unintentionally increase the availablity of dangerous
+great, however that can unintentionally increase the availability of dangerous
 goods.
 
 1. How can the type of robotic application implemented in your project cause
@@ -112,7 +112,7 @@ programs to counteract the emissions put out by the plants.
 
 ## Team Working Strategy
 
-Our teamworking strategy was to have at least two people testing at the same
+Our team work strategy was to have at least two people testing at the same
 time while one person worked on the report. Katie worked a lot with coding the
 robots movements. Danny and Pallas helped to make the resin cubes. Pallas and
 Katie designed the board for the robot to sit on. We all worked on the hardware
