@@ -16,6 +16,10 @@ TODO: Conduct at least three experiments with your completed implementation, whe
 
 Different materials impact?
 
+1) going from one side to another
+2) picking up the cubes
+3) putting down the cube in the correct spot
+
 ## Ethical Implications
 
 Based on your experiences with the project and from our discussions in class, please provide answers for the following questions as related to the project you chose to implement:
