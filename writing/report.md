@@ -47,7 +47,7 @@ XYZ coordinate set to the appropriate angles for the servos. We ended up
 abandoning this script in favor of the evoarms built in systems. Utilizing the
 sequence command structure we were able to get the arm, with a healthy dose of
 trial and error, to move from the start side, to the middle "machine", and
-finally to the finished side. 
+finally to the finished side.
 
 ### 2. picking up the cubes
 
